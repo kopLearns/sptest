@@ -17,7 +17,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progress="0.80000000000000004" translatesAutoresizingMaskIntoConstraints="NO" id="2wc-Zr-NMF">
+                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progress="1" translatesAutoresizingMaskIntoConstraints="NO" id="2wc-Zr-NMF">
                                 <rect key="frame" x="0.0" y="-2" width="150" height="2"/>
                                 <variation key="heightClass=regular" fixedFrame="YES">
                                     <rect key="frame" x="78" y="394" width="150" height="2"/>
